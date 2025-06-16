@@ -6,4 +6,5 @@ public class CafeDao {
 	public void delete() {
 		// 작업 진행중... 
 	}
+	public void find() {}
 }
